@@ -18,7 +18,7 @@ The goal of this project is to simulate a real-world collaborative data engineer
 ---
 
 ## Project Structure
-
+```
 data-engineering-toolkit/
 │
 ├── README.md
@@ -27,7 +27,7 @@ data-engineering-toolkit/
 │   ├── cleaning/
 │   ├── transformation/
 │   └── loading/
-
+```
 ---
 
 ## Documentation
